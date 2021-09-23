@@ -4,6 +4,8 @@ A go implementation for Murmur3 Hash.
 
 The algorithm description can be found in Wiki: 
 
+https://en.wikipedia.org/wiki/MurmurHash
+
 You could also test murmur3 hash online here:
 
 http://murmurhash.shorelabs.com
