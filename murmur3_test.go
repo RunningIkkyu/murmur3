@@ -24,6 +24,7 @@ var td = []testdata{
 	{key: "key3", seed: 1, hash: 1632542396},
 	{key: "key3", seed: 2, hash: 1921854502},
 	{key: "key3", seed: 3, hash: 245936421},
+	{key: "https://www.google.com", seed: 1, hash: 839068616},
 }
 
 func TestMurmur3(t *testing.T) {
